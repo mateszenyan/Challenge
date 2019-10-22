@@ -15,9 +15,10 @@ header {
     float: left;
     background-color: aqua;
     color:black;
+    text-align: center;
 }
 
-.centre {
+.center {
     text-align: center;
 }
 
@@ -26,6 +27,7 @@ header {
     height: 700px;
     float: left;
     background-color: blueviolet;
+    text-align: center;
 
 }
 
@@ -34,6 +36,8 @@ header {
     height: 700px;
     float: left;
     background-color: crimson;
+    text-align: center;
+    color: turquoise;
 }
 
 footer {
